@@ -1,0 +1,24 @@
+{
+	"name": "zepeto.script",
+	"scope": "zepeto",
+	"displayName": "ZEPETO.Script",
+	"version": "1.12.0",
+	"unity": "2020.3",
+	"description": "JavaScript engine for ZEPETO with V8",
+	"keywords": [
+		"zepeto",
+		"script",
+		"javascript",
+		"typescript",
+		"v8",
+		"gameplatform"
+	],
+	"category": "Unity",
+	"hideInEditor": false,
+	"author": {
+		"name": "ZEPETO",
+		"email": "support@zepeto.me",
+		"url": "https://zepeto.me/"
+	},
+	"commitId": "ad1d53a062f679820334c8ead199153e37d78c13"
+}

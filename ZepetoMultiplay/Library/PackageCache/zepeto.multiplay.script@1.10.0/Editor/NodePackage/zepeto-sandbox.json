@@ -1,0 +1,124 @@
+{
+	"id": "@zepeto/sandbox@1.1.18",
+	"name": "@zepeto/sandbox",
+	"version": "1.1.18",
+	"size": 2380221,
+	"unpackedSize": 6012038,
+	"shasum": "5005c848255f1f1454d7d75cec5179b020300b80",
+	"integrity": "sha512-B/CrrEga8APN6FURDAdr4AM6AB/Y8+6eF0J0/oCjPQiuBhvHbc7gnderSgfpnceZPB/1qnvsvzjo6pWAr0/90A==",
+	"filename": "zepeto-sandbox.tgz",
+	"files": [
+		{
+			"path": "bootstrap.js",
+			"size": 3499,
+			"mode": 420
+		},
+		{
+			"path": "dist/bridge.js",
+			"size": 29197,
+			"mode": 420
+		},
+		{
+			"path": "dist/bytenode/cli.js",
+			"size": 5011,
+			"mode": 493
+		},
+		{
+			"path": "dist/contextify.js",
+			"size": 34304,
+			"mode": 420
+		},
+		{
+			"path": "dist/events.js",
+			"size": 28143,
+			"mode": 420
+		},
+		{
+			"path": "dist/fixasync.js",
+			"size": 2784,
+			"mode": 420
+		},
+		{
+			"path": "dist/bytenode/index.js",
+			"size": 6406,
+			"mode": 420
+		},
+		{
+			"path": "dist/sandbox.js",
+			"size": 17478,
+			"mode": 420
+		},
+		{
+			"path": "dist/setup-node-sandbox.js",
+			"size": 11098,
+			"mode": 420
+		},
+		{
+			"path": "dist/setup-sandbox.js",
+			"size": 14431,
+			"mode": 420
+		},
+		{
+			"path": "bootstrap.jsc",
+			"size": 5471616,
+			"mode": 420
+		},
+		{
+			"path": "cli.jsc",
+			"size": 335976,
+			"mode": 420
+		},
+		{
+			"path": "template/.vscode/launch.json",
+			"size": 513,
+			"mode": 420
+		},
+		{
+			"path": "package.json",
+			"size": 1558,
+			"mode": 420
+		},
+		{
+			"path": "template/package.json",
+			"size": 282,
+			"mode": 420
+		},
+		{
+			"path": "template/schemas.json",
+			"size": 33,
+			"mode": 420
+		},
+		{
+			"path": "template/tsconfig.json",
+			"size": 518,
+			"mode": 420
+		},
+		{
+			"path": "README.md",
+			"size": 298,
+			"mode": 420
+		},
+		{
+			"path": "dist/read.sh",
+			"size": 4214,
+			"mode": 420
+		},
+		{
+			"path": "template/index.d.ts",
+			"size": 44228,
+			"mode": 420
+		},
+		{
+			"path": "template/SchemaTypes/index.d.ts",
+			"size": 153,
+			"mode": 420
+		},
+		{
+			"path": "template/index.ts",
+			"size": 298,
+			"mode": 420
+		}
+	],
+	"entryCount": 22,
+	"bundled": []
+}

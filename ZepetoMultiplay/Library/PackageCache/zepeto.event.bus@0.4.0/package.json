@@ -1,0 +1,16 @@
+{
+	"name": "zepeto.event.bus",
+	"scope": "zepeto",
+	"displayName": "ZEPETO.Event.Bus",
+	"version": "0.4.0",
+	"unity": "2020.3",
+	"description": "Event Bus For ZEPETO",
+	"keywords": [
+		"zepeto",
+		"eventbus"
+	],
+	"samples": [],
+	"category": "Unity",
+	"hideInEditor": true,
+	"commitId": "feae31213d632cb4c8ac9c0ff728b6a6b510353e"
+}

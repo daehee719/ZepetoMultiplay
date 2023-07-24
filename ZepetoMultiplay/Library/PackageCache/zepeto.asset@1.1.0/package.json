@@ -1,0 +1,24 @@
+{
+	"name": "zepeto.asset",
+	"scope": "zepeto",
+	"displayName": "ZEPETO.Asset",
+	"version": "1.1.0",
+	"unity": "2019.4",
+	"description": "ZEPETO Assetbundle builder",
+	"keywords": [
+		"zepeto",
+		"assetbundle"
+	],
+	"category": "Unity",
+	"hideInEditor": false,
+	"author": {
+		"name": "ZEPETO",
+		"email": "support@zepeto.me",
+		"url": "https://zepeto.me/"
+	},
+	"dependencies": {
+		"com.unity.scriptablebuildpipeline": "1.7.3"
+	},
+	"type": "library",
+	"commitId": "08cc874890955757f053e524fefaa53be0462b37"
+}
